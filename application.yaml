@@ -11,7 +11,7 @@ spec:
     targetRevision: Head
     path: dev
   destination:
-    server: https://console-openshift-console.apps.ci-ln-5m9qkcb-72292.origin-ci-int-gce.dev.rhcloud.com/
+    server: https://api.ci-ln-5m9qkcb-72292.origin-ci-int-gce.dev.rhcloud.com:6443
     namespace: myapp
 
   syncPolicy:
