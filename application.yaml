@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/Mrudraia/argocd-practice-project.git
+    repoURL: https://Mrudraia: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@github.com/Mrudraia/argocd-practice-project.git
     targetRevision: Head
     path: dev
   destination:
